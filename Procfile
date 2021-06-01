@@ -1,1 +1,1 @@
-web: npm install; npm run serve --disable-host-check
+web: npm install; npm run serve
