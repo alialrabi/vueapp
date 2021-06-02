@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
    
-   <h1>Welcome to Smartinn </h1>
+   <h1>Welcome to Smartinn by Elastic Beanstalk</h1>
   </div>
 </template>
 
